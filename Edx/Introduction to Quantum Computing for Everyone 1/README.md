@@ -1,6 +1,6 @@
 # UChicagoX: Introduction to Quantum Computing for Everyone ([Link](https://www.edx.org/learn/quantum-computing/university-of-chicago-introduction-to-quantum-computing-for-everyone))
 
-<span style = "color: purple">P.S: This course is Audited<\span>
+<span style = "color: purple">P.S: This course is Audited</span>
 </hr>
 <span style ="color: red">This folder contains solutions of all the audited material excercises and practice questions</span>
 
